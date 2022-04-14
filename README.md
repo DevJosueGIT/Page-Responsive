@@ -1,4 +1,4 @@
 # Pagina-Responsive
 Page Responsive 1
 
-Estoy aprendiendo lo que es responsive y css 
+Estoy aprendiendo Responsive y Css
